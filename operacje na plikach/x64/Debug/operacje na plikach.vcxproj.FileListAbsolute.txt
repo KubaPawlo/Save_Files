@@ -1,0 +1,8 @@
+D:\Jakub Pawłowicz\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.AssemblyReference.cache
+D:\Jakub Pawłowicz\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.SuggestedBindingRedirects.cache
+D:\Jakub Pawłowicz\operacje na plikach\operacje na plikach\x64\Debug\operacjenaplikach.MyForm.resources
+D:\Jakub Pawłowicz\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.GenerateResource.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\operacje na plikach\operacje na plikach\x64\Debug\operacjenaplikach.MyForm.resources
+C:\Users\Asus\Desktop\programy jezyki programowania\operacje na plikach\operacje na plikach\x64\Debug\operacje na plikach.vcxproj.GenerateResource.cache
